@@ -10,6 +10,7 @@ public class AddGitHub {
 		System.out.println("the value of C is: "+ c);
 		c=b-a;
 		System.out.println("the value of C after change is: "+ c);
+		System.out.println("Test3");
 
 	}
 
